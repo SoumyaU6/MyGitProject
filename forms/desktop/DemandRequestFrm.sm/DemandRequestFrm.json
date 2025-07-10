@@ -75,7 +75,10 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "DemandRequestFrm",
+<<<<<<< HEAD
     "ide_onMapping": "AS_Form_je8c53ec45054d06a362ddeaf125f242",
+=======
+>>>>>>> 8e16e00acaf5e2fbc085d924fb7b51592b970242
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
