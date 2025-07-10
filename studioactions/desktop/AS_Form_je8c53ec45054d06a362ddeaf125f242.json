@@ -1,0 +1,19 @@
+{
+    "AS_Form_je8c53ec45054d06a362ddeaf125f242": {
+        "id": "AS_Form_je8c53ec45054d06a362ddeaf125f242",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "DemandRequestFrm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a1716dc115ec46f7b708dd80999458a8"
+        },
+        "language": "js",
+        "eventType": "onMapping",
+        "actions": []
+    }
+}
